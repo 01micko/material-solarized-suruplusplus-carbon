@@ -1,0 +1,25 @@
+Source: material-solarized-suruplusplus-carbon
+Section: x11
+Priority: optional
+Maintainer: Mick Amadio <01micko@gmx.com>
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.6.2
+Rules-Requires-Root: no
+Homepage: https://github.com/BunsenLabs/material-solarized-suruplusplus-icons-sage
+Vcs-Git: https://github.com/BunsenLabs/material-solarized-suruplusplus-icons-sage.git
+Vcs-Browser: https://github.com/BunsenLabs/material-solarized-suruplusplus-icons-sage
+
+Package: material-solarized-suruplusplus-carbon
+Architecture: all
+Depends: ${misc:Depends}, librsvg2-common
+Recommends: gtk-update-icon-cache
+Description: Material-Solarized-Sage++ and Bark++ icons sets.
+ From rtl88-Themes, this is the Material-Solarized-Suru++ icon set
+ from the Material-Solarized branch, packaged and modified for
+ BunsenLabs.
+ .
+ The package is named material-solarized-suruplusplus-carbon
+ because of restrictions by GitHub on characters in repository names.
+ .
+ Upstream repository:
+ https://github.com/rtlewis88/rtl88-Themes/tree/Material-Solarized

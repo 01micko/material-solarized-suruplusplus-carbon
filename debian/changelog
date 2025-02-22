@@ -1,0 +1,8 @@
+material-solarized-suruplusplus-carbon (13.0-1) carbon; urgency=medium
+
+  * Initial release.
+  * Import Material-Solarized-Suru++ directory from Material-Solarized branch
+     of rtl88-Themes.
+     https://github.com/rtlewis88/rtl88-Themes/tree/Material-Solarized
+
+ -- Mick Amadio <01micko@gmx.com>  Sun, 16 Feb 2025 10:52:26 +1000
